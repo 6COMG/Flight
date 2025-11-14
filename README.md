@@ -261,4 +261,4 @@ See [CHANGELOG.md](CHANGELOG.md) for version history and release notes.
 
 ---
 
-Built with ⚡ by the Lightning team
+Built with ⚡ by the Lightning [team](mailto:lab@6com.group)
