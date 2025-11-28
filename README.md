@@ -11,6 +11,32 @@ Website coming soon.
 ![](https://github.com/user-attachments/assets/e157bbb0-dcb9-41a5-a12d-719810aa1d87)
 
 
+## MCU Z1 Status
+*November 28th, 2026*
+
+| Feature | HW Design | Firmware Support | Code Example | Integration Test |
+|---------|-----------|------------------|--------------|------------------|
+| UART | ✅ Complete | ✅ Complete | ✅ Complete | 80% |
+| GPIO | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
+| SPI | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
+| I2C | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
+| ADC | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
+| PWM | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
+| Timer | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
+| RTC | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
+| WDT | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
+| USB | ❌ Not Started | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+| CAN | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+| CAN-FD | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+| Flash | ❌ Not Started | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+
+**Legend:**
+- ✅ Complete
+- 🚧 In Progress
+- ⏳ Planned
+- ❌ Not Started
+
+
 ## Features
 
 ✨ **Remote Building** - Submit builds to a remote server and stream output in real-time  
