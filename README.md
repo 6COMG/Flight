@@ -12,20 +12,20 @@ Website coming soon.
 
 
 ## MCU Z1 Status
-*November 28th, 2026*
+*November 28th, 2025*
 
 | Feature | HW Design | Firmware Support | Code Example | Integration Test |
-|---------|-----------|------------------|--------------|------------------|
+|:-------:|:---------:|:----------------:|:------------:|:----------------:|
+| CORE| 🚧 In Progress | 🚧 In Progress | 🚧 In Progress | 🚧 In Progress |
+| FPU | 🚧 In Progress | ❌ Not started | ❌ Not Started | ❌ Not Started |
 | UART | ✅ Complete | ✅ Complete | ✅ Complete | 80% |
-| GPIO | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
+| GPIO | 🚧 In Progress | ✅ Complete | ❌ Not Started | ❌ Not Started |
 | SPI | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
 | I2C | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
-| ADC | ❌ Not Started | ✅ Complete | ❌ Not Started | ❌ Not Started |
 | PWM | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
 | Timer | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
 | RTC | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
 | WDT | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
-| USB | ❌ Not Started | ❌ Not Started | ❌ Not Started | ❌ Not Started |
 | CAN | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
 | CAN-FD | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
 | Flash | ❌ Not Started | ❌ Not Started | ❌ Not Started | ❌ Not Started |
