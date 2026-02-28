@@ -8,7 +8,7 @@ A powerful command-line tool for building Lightning firmware applications with r
 
 Website coming soon.
 
-![](https://github.com/user-attachments/assets/e157bbb0-dcb9-41a5-a12d-719810aa1d87)
+![](https://github.com/user-attachments/assets/baa8ffc5-fa46-4fed-86f9-2821877f3d99)
 
 
 ## MCU Z1 Status
