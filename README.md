@@ -12,7 +12,7 @@ Website coming soon.
 
 
 ## MCU Z1 Status
-*November 28th, 2025*
+*March 27th, 2026*
 
 | Feature | HW Design | Firmware Support | Code Example | Integration Test |
 |:-------:|:---------:|:----------------:|:------------:|:----------------:|
@@ -26,8 +26,8 @@ Website coming soon.
 | Timer | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
 | RTC | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
 | WDT | ✅ Complete | ✅ Complete | ⏳ Planned | ⏳ Planned |
-| CAN | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
-| CAN-FD | ⏳ Planned | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+| CAN | ✅ Complete | ❌ Not Started | ❌ Not Started | ❌ Not Started |
+| CAN-FD | 🚧 In Progress | ❌ Not Started | ❌ Not Started | ❌ Not Started |
 | Flash | ❌ Not Started | ❌ Not Started | ❌ Not Started | ❌ Not Started |
 
 **Legend:**
